@@ -1,14 +1,32 @@
-import { useState } from 'react'
-import './App.css'
+import Background from './components/Background.jsx';
+import ImageSlider from './components/ImageSlider.jsx';
 
-function App() {
-  const [count, setCount] = useState(0)
-
+export default function App() {
   return (
-    <>
-      <h1>Hello World!</h1>
-    </>
-  )
-}
+    <div className="app">
+      <Background />
 
-export default App
+      <header>
+        <strong>WILD / STORIES</strong>
+        <nav aria-label="Navegação principal">
+          <span>EXPLORAR</span> · <span>SOBRE</span>
+        </nav>
+      </header>
+
+      <main>
+        <section className="intro" aria-label="Apresentação">
+          <small>EXPLORAÇÃO • VIDA SELVAGEM</small>
+          <h1>A natureza em cada detalhe.</h1>
+          <p>
+            Descubra espécies extraordinárias em uma
+            experiência visual interativa.
+          </p>
+        </section>
+
+        <ImageSlider />
+      </main>
+
+      <footer>REACT • TAILWIND CSS • JAVASCRIPT</footer>
+    </div>
+  );
+}
