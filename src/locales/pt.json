@@ -1,0 +1,59 @@
+{
+  "header": {
+    "nav": "EXPLORAR · SOBRE",
+    "translate": "Traduzir",
+    "translateAria": "Traduzir a página para {{next}} (idioma atual: {{current}})"
+  },
+  "hero": {
+    "kicker": "EXPLORAÇÃO • VIDA SELVAGEM",
+    "title": "A natureza em cada detalhe.",
+    "subtitle": "Descubra espécies extraordinárias em uma experiência visual interativa."
+  },
+  "slider": {
+    "sectionLabel": "Galeria da vida selvagem",
+    "presentationLabel": "Apresentação",
+    "featuredPrefix": "EM DESTAQUE / ",
+    "controls": {
+      "groupLabel": "Controles do slider",
+      "prev": "Imagem anterior",
+      "next": "Próxima imagem"
+    }
+  },
+  "slides": {
+    "cachorros": {
+      "animal": "Cachorrinhos",
+      "badge": "CÃES",
+      "alt": "Filhotes de cachorro em um campo florido",
+      "summary": "Pequenos companheiros, grandes personalidades.",
+      "description": "Raças pequenas são conhecidas por sua curiosidade, energia e apego aos tutores."
+    },
+    "urso": {
+      "animal": "Urso",
+      "badge": "URSOS",
+      "alt": "Filhote de urso junto a um urso adulto",
+      "summary": "Força, cuidado e vida selvagem.",
+      "description": "Ursos vivem em diversos habitats e apresentam dietas e comportamentos variados."
+    },
+    "panda": {
+      "animal": "Panda-gigante",
+      "badge": "PANDA-GIGANTE",
+      "alt": "Pandas descansando em seu habitat",
+      "summary": "Calmo, curioso e inconfundível.",
+      "description": "O panda-gigante vive na China, alimenta-se principalmente de bambu e é um excelente escalador."
+    },
+    "leao": {
+      "animal": "Leão",
+      "badge": "LEÕES",
+      "alt": "Leoa descansando em um galho",
+      "summary": "Um grande felino social.",
+      "description": "Leões vivem em grupos sociais e são predadores habilidosos."
+    },
+    "girafa": {
+      "animal": "Girafa",
+      "badge": "GIRAFAS",
+      "alt": "Duas girafas na savana",
+      "summary": "A maior altura entre os animais terrestres.",
+      "description": "Seu pescoço comprido permite alcançar folhas no alto das árvores africanas."
+    }
+  }
+}

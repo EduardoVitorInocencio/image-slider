@@ -1,0 +1,59 @@
+{
+  "header": {
+    "nav": "EXPLORE · ABOUT",
+    "translate": "Translate",
+    "translateAria": "Translate the page to {{next}} (current language: {{current}})"
+  },
+  "hero": {
+    "kicker": "EXPLORATION • WILDLIFE",
+    "title": "Nature in every detail.",
+    "subtitle": "Discover extraordinary species in an interactive visual experience."
+  },
+  "slider": {
+    "sectionLabel": "Wildlife gallery",
+    "presentationLabel": "Introduction",
+    "featuredPrefix": "FEATURED / ",
+    "controls": {
+      "groupLabel": "Slider controls",
+      "prev": "Previous image",
+      "next": "Next image"
+    }
+  },
+  "slides": {
+    "cachorros": {
+      "animal": "Puppies",
+      "badge": "DOGS",
+      "alt": "Puppy dogs in a flowering field",
+      "summary": "Small companions, big personalities.",
+      "description": "Small breeds are known for their curiosity, energy and close bond with their owners."
+    },
+    "urso": {
+      "animal": "Bear",
+      "badge": "BEARS",
+      "alt": "A bear cub next to an adult bear",
+      "summary": "Strength, care and wild life.",
+      "description": "Bears live in a variety of habitats and show a wide range of diets and behaviors."
+    },
+    "panda": {
+      "animal": "Giant panda",
+      "badge": "GIANT PANDA",
+      "alt": "Pandas resting in their habitat",
+      "summary": "Calm, curious and unmistakable.",
+      "description": "The giant panda lives in China, feeds mainly on bamboo and is an excellent climber."
+    },
+    "leao": {
+      "animal": "Lion",
+      "badge": "LIONS",
+      "alt": "A lioness resting on a branch",
+      "summary": "A highly social big cat.",
+      "description": "Lions live in social groups and are skilled predators."
+    },
+    "girafa": {
+      "animal": "Giraffe",
+      "badge": "GIRAFFES",
+      "alt": "Two giraffes on the savanna",
+      "summary": "The tallest of all land animals.",
+      "description": "Its long neck allows it to reach leaves high up in African trees."
+    }
+  }
+}

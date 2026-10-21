@@ -1,0 +1,59 @@
+{
+  "header": {
+    "nav": "EXPLORAR · SOBRE",
+    "translate": "Traducir",
+    "translateAria": "Traducir la página a {{next}} (idioma actual: {{current}})"
+  },
+  "hero": {
+    "kicker": "EXPLORACIÓN • VIDA SALVAJE",
+    "title": "La naturaleza en cada detalle.",
+    "subtitle": "Descubre especies extraordinarias en una experiencia visual interactiva."
+  },
+  "slider": {
+    "sectionLabel": "Galería de vida salvaje",
+    "presentationLabel": "Presentación",
+    "featuredPrefix": "DESTACADO / ",
+    "controls": {
+      "groupLabel": "Controles del carrusel",
+      "prev": "Imagen anterior",
+      "next": "Imagen siguiente"
+    }
+  },
+  "slides": {
+    "cachorros": {
+      "animal": "Cachorros",
+      "badge": "PERROS",
+      "alt": "Filhotes de perro en un campo con flores",
+      "summary": "Pequeños compañeros, grandes personalidades.",
+      "description": "Las razas pequeñas se conocen por su curiosidad, energía y apego a sus dueños."
+    },
+    "urso": {
+      "animal": "Oso",
+      "badge": "OSOS",
+      "alt": "Un cachorro de oso junto a un oso adulto",
+      "summary": "Fuerza, cuidado y vida salvaje.",
+      "description": "Los osos viven en diversos hábitats y presentan dietas y comportamientos variados."
+    },
+    "panda": {
+      "animal": "Panda gigante",
+      "badge": "PANDA GIGANTE",
+      "alt": "Pandas descansando en su hábitat",
+      "summary": "Tranquilo, curioso e inconfundible.",
+      "description": "El panda gigante vive en China, se alimenta principalmente de bambú y es un excelente escalador."
+    },
+    "leao": {
+      "animal": "León",
+      "badge": "LEONES",
+      "alt": "Una leona descansando en una rama",
+      "summary": "Un gran felino social.",
+      "description": "Los leones viven en grupos sociales y son depredadores hábiles."
+    },
+    "girafa": {
+      "animal": "Jirafa",
+      "badge": "JIRAFAS",
+      "alt": "Dos jirafas en la sabana",
+      "summary": "El mayor de los animales terrestres.",
+      "description": "Su largo cuello le permite alcanzar hojas en lo alto de los árboles africanos."
+    }
+  }
+}
