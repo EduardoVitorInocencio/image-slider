@@ -2,7 +2,10 @@
   "header": {
     "nav": "EXPLORE · ABOUT",
     "translate": "Translate",
-    "translateAria": "Translate the page to {{next}} (current language: {{current}})"
+    "translateAria": "Translate the page to {{next}} (current language: {{current}})",
+    "theme": "Theme",
+    "themeToDark": "Switch to dark mode",
+    "themeToLight": "Switch to light mode"
   },
   "hero": {
     "kicker": "EXPLORATION • WILDLIFE",

@@ -9,7 +9,7 @@ export default function SliderControls({ current, total, onPrev, onNext }) {
         type="button"
         aria-label={t('slider.controls.prev')}
         onClick={onPrev}
-        className="grid size-13 place-items-center rounded-2xl border border-violet-100 bg-white text-mauve shadow-sm transition-colors hover:bg-violet-50"
+        className="grid size-13 place-items-center rounded-2xl border border-violet-100 bg-white text-mauve shadow-sm transition-colors hover:bg-violet-50 dark:border-violet-900 dark:bg-violet-950/60 dark:text-violet-200 dark:hover:bg-violet-900"
       >
         ←
       </button>

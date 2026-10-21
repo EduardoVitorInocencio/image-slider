@@ -2,7 +2,10 @@
   "header": {
     "nav": "EXPLORAR · SOBRE",
     "translate": "Traducir",
-    "translateAria": "Traducir la página a {{next}} (idioma actual: {{current}})"
+    "translateAria": "Traducir la página a {{next}} (idioma actual: {{current}})",
+    "theme": "Tema",
+    "themeToDark": "Activar modo oscuro",
+    "themeToLight": "Activar modo claro"
   },
   "hero": {
     "kicker": "EXPLORACIÓN • VIDA SALVAJE",

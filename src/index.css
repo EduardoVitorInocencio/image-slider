@@ -1,12 +1,19 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
-  --color-ink:#1f1836;
+  --color-ink: #1f1836;
   --color-mauve: #6039ad;
-  --color-lavender:#faf8ff
+  --color-lavender: #faf8ff;
 }
 
 body {
-  margin:0;
+  margin: 0;
   font-family: Inter, ui-sans-serif, system-ui, sans-serif;
+}
+
+.dark body {
+  background-color: #0f0a1f;
+  color: #e9e4f5;
 }

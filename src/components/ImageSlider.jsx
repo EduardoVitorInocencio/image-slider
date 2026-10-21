@@ -15,11 +15,11 @@ export default function ImageSlider() {
 
   return (
     <section aria-label={t('slider.sectionLabel')} className="w-full min-w-0">
-      <p className="mb-5 text-xs font-bold tracking-[.18em] text-violet-600">
+      <p className="mb-5 text-xs font-bold tracking-[.18em] text-violet-600 dark:text-violet-400">
         {t('slider.featuredPrefix')}
         {t(`slides.${active.id}.badge`)}
       </p>
-      <div className="relative aspect-[1.17] rounded-[28px] bg-violet-100 p-6">
+      <div className="relative aspect-[1.17] rounded-[28px] bg-violet-100 p-6 dark:bg-violet-950/40">
         {slides.map((item, i) => (
           <img
             key={item.id}
@@ -33,7 +33,7 @@ export default function ImageSlider() {
       <div className="mt-7 min-h-28" aria-live="polite">
         <h2 className="text-3xl font-bold">{t(`slides.${active.id}.animal`)}</h2>
         <p className="mt-2 font-medium text-mauve">{t(`slides.${active.id}.summary`)}</p>
-        <p className="mt-3 text-base leading-relaxed text-slate-500">{t(`slides.${active.id}.description`)}</p>
+        <p className="mt-3 text-base leading-relaxed text-slate-500 dark:text-violet-200/70">{t(`slides.${active.id}.description`)}</p>
       </div>
       <SliderControls current={index + 1} total={total} onPrev={handlePrev} onNext={handleNext} />
     </section>
